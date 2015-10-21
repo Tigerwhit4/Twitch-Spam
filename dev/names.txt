@@ -1,1 +1,2 @@
 # Names of the bots who post spam links.
+puzd0ban
