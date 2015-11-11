@@ -1,4 +1,4 @@
-# Spam links.
+### Spam links ###
 is.gd/KZfKFQ
 c2y.me/qbza
 55555.ru/57693
@@ -45,6 +45,7 @@ andromedo.ga
 clck.ru/9bmkK
 syn.su/DQ
 harrowingtreasures.com/Lg6a4Z
+### Fallout 4 spoilers ###
 your son is the villian
 your son is the leader
 kill your infant son
