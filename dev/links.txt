@@ -60,6 +60,7 @@ prniscr.pw
 imges-png.pw
 pristcr.pw
 screenshot-img.pw
+screenshot.nl
 ### YouTube Ban/Disrespectful Link ###
 http://youtu.be/2XGl0dfG0dk
 https://www.youtube.com/watch?v=2XGl0dfG0dk
